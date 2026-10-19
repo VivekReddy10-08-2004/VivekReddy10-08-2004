@@ -115,7 +115,7 @@ Distributed systems, synchronization semantics, state estimation under delayed t
 
 ### currently reading 📚
 
-- 📖 **Designing Data-Intensive Applications (DDIA)** — learning how reliable systems handle data, scale, and failure reliably.
+- 📖 **Designing Data-Intensive Applications (DDIA)/Boar book** — learning how reliable systems handle data, scale, and failure reliably.
 - 🧪 **Evals for AI engineering** — exploring how to measure, debug, and improve AI systems beyond *"it seems to work."*
 
 *I like to understand not just how things work, but why they break.* ☕
@@ -124,7 +124,7 @@ Distributed systems, synchronization semantics, state estimation under delayed t
 
 <div align="center">
 
-*Thanks for stopping by. There's always something new on the workbench.* ☕
+*Thanks for stopping by. Always something new on the workbench quenching the thirst to build.* 
 
 <sub>Small improvements, carefully shipped.</sub>
 
