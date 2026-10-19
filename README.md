@@ -17,13 +17,13 @@ Backend systems · data infrastructure · applied AI · thoughtful products
 
 ---
 
-### a little about me 🌿
+### a little about me 🤓
 
-I'm a software engineer-in-training who enjoys the parts of engineering that aren't always visible in a demo: recovery after failure, clean interfaces, reliable data, and tools people actually want to use.
+I'm a compute enthusiast who enjoys engineering things that aren't always visible in a demo, i.e recovery after failure, clean interfaces, reliable data, and tools people actually want to use.
 
-I have worked on medical-imaging ML systems and document workflows, and I like connecting **research ideas to software people can run**. Lately, I've been spending most of my time on distributed-system reliability, backend engineering, and data pipelines.
+I have worked on medical-imaging ML systems and document workflows, and I like connecting **research ideas to software people can run**. Lately, I've been spending most of my time on distributed systems reliability, backend engineering, and data pipelines.
 
-Outside the code, I have a soft spot for aviation, learning new things, and building small tools that make someone's day easier.
+Outside the code, I have a soft spot for aviation, learning new niche subjects, and building small tools that make someone's day easier.
 
 ### a few things on my workbench 🛠️
 
