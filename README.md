@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm vivek ☕
+# Hey, i'm Vivek
 
 **I build software that keeps working when the happy path doesn't.**
 
