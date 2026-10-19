@@ -25,6 +25,20 @@ I have worked on medical-imaging ML systems and document workflows, and I like c
 
 Outside the code, I have a soft spot for aviation, learning new niche subjects, and building small tools that make someone's day easier.
 
+### currently working on ✈️
+
+**Research paper: Flight Trajectory Estimation under Network Delays**
+
+*What happens when the data arrives late, goes missing, or isn't quite reliable?*
+
+I'm exploring how probabilistic state-space models (**Extended Kalman Filters**) compare with recurrent neural networks (**GRUs/LSTMs**) when estimating aircraft trajectories from delayed or missing ADS-B telemetry.
+
+The goal is to understand how different approaches handle uncertainty, observation delays, and real-time state estimation.
+
+`Python` · `Time Series` · `Kalman Filtering` · `PyTorch` · `Probabilistic Modeling`
+
+*Still a work in progress — experimenting, benchmarking, and learning along the way.*
+
 ### a few things on my workbench 🛠️
 
 <table>
